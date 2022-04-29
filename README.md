@@ -2,7 +2,7 @@ Prediction of cryptocurrency prices based on popularity on Twitter and Reddit
 
 (educational project, the main purpose was to create a full-fledged data processing pipeline running in the could)
 
-Sorry, I could not upload code here, but it was not really interesting anyway - reading batch data, reading from Spark streams, learning and using a very simple regression model, and that's it. Btw, using ML with Spark Structured Streaming and Python was terrible.
+Sorry, I could not upload the code here, but it was not really interesting anyway - reading batch data, reading from Spark streams, learning and using a very simple regression model, and that's it. Btw, using ML with Spark Structured Streaming and Python was terrible.
 
 # Highlights:
 ## Architecture:
